@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @nrguez
-- 👀 I’m interested in data engineering and data science projects in healthcare. Initially, I was enthusistic about AI but I have realised that before playing with ML or DP models, I want to have expertise in database management and ETL processes.
-- 🌱 I’m currently working in my own portfolio. 
-- 📫 How to reach me ... https://www.linkedin.com/in/nuriarguezruiz/
+## Hi there, I'm Núria! 🙋
+### I'm a Biomedical Engineer and almost a Health Informatician!
+
+- 📍 I'm from a small but lovely town in Catalonia, but I'm studying and living in Stockholm. 
+- 😍 I’m interested in data-driven solutions in healthcare. 
+- 💻 I’m currently working in my own portfolio. 
+- 👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/nuriarguezruiz/)!
+
+     
 
 <!---
 nrguez/nrguez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,6 @@
 
 - 📍 I'm from a small but lovely town in Catalonia, studying and living in Stockholm. 
 - 😍 I’m interested in data-driven solutions in healthcare. 
-- 💻 I’m currently working in my own portfolio. 
 - 👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/nuriarguezruiz/)!
 
      

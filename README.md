@@ -1,8 +1,8 @@
-## Hi there, I'm Núria! 🙋
-### I'm a Biomedical Engineer and almost a Health Informatician!
+## Hi there, I'm Núria! 
+### Passionate about data-driven solutions in healthcare!
 
-- 📍 I'm from a small but lovely town in Catalonia, studying and living in Stockholm. 
-- 😍 I’m interested in data-driven solutions in healthcare. 
+- 📍  I'm from a small but lovely town in Catalonia, currently living in Munich. 
+- 🤓 BSc Biomedical Engineering (UPC, Barcelona) and MSc Health Informatics (KI & SU, Stockholm) . 
 - 👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/nuriarguezruiz/)!
 
      
